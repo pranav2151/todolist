@@ -1,6 +1,6 @@
 # todolist app beginner level.
 It is simple todo task app which can be used to manage our daily tasks by simply creating the tasks
-& after completion we can mark it complete or delete it if don't want it.
+& after completion we can mark it complete or delete it.
 
 The todo list contains 3 files:
 1.The index.html is the main page of the app which is on html.
